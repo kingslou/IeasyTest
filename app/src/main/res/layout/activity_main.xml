@@ -34,4 +34,14 @@
         android:layout_alignStart="@+id/button"
         android:layout_marginTop="87dp"
         android:id="@+id/button2" />
+
+    <Button
+        android:text="通过Messenger调用"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button2"
+        android:layout_alignLeft="@+id/button2"
+        android:layout_alignStart="@+id/button2"
+        android:layout_marginTop="54dp"
+        android:id="@+id/button3" />
 </RelativeLayout>
